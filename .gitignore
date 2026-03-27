@@ -18,3 +18,4 @@ _site/
 /.luarc.json
 _freeze/
 .jupyter_cache/
+site_libs/
